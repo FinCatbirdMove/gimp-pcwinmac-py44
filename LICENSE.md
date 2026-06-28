@@ -1,4 +1,4 @@
-# 
+# 免费 GIMP 插件 Mac OS版 | 新 GIMP 插件 PC Windows版。集成 骨架工具 和 内容感知填充，跨平台性能最大化。
 
 
 
